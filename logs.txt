@@ -1,0 +1,35 @@
+commit dbacf09bcbfa2156827e2bce140066e7be0b4ec6
+Author: Angel <ing.angel.arvizu@@gmail.com>
+Date:   Thu Oct 13 10:41:18 2016 -0500
+
+    Agregacion del comando git push (se conecto a github)
+
+commit f96b5e82abbfbebc09ac6817cc0c43c9d23ee9a8
+Author: Angel <ing.angel.arvizu@@gmail.com>
+Date:   Tue Oct 11 12:03:54 2016 -0500
+
+    Centralizacion de titulo e imagen
+
+commit 5c0cd837ca7a1c1a8d0c543767d7f7832ce8987a
+Author: Angel <ing.angel.arvizu@@gmail.com>
+Date:   Tue Oct 11 11:58:21 2016 -0500
+
+    Se agrego mas comandos y una imagen al footer
+
+commit 368afbcece7c7a9efcef14ffb66fbdf632fc641d
+Author: Angel <ing.angel.arvizu@@gmail.com>
+Date:   Tue Oct 11 10:51:11 2016 -0500
+
+    footer, imagen y descripcion
+
+commit 7a11c7c1898b480cc8e629d04924ed52babd1eba
+Author: Angel <ing.angel.arvizu@@gmail.com>
+Date:   Mon Oct 10 11:06:38 2016 -0500
+
+    Estructura con Boostrap
+
+commit c934cdceedb295f30b74b55ebbccd5f7765245e8
+Author: Angel <ing.angel.arvizu@@gmail.com>
+Date:   Mon Oct 10 11:04:24 2016 -0500
+
+    Estructura Inicial
